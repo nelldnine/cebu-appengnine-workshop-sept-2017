@@ -18,9 +18,17 @@ Build modern web and mobile applications on an open cloud platform: bring your o
 - [jinja2][5]
 - [Twitter Bootstrap][6]
 
+## Tools
+- [Sublime Text][7]
+- [Google Cloud SDK][8]
+- [Git][9]
+
 [1]: https://developers.google.com/appengine
 [2]: https://python.org
 [3]: https://developers.google.com/appengine/docs/python/ndb/
 [4]: http://webapp-improved.appspot.com/
 [5]: http://jinja.pocoo.org/docs/
 [6]: http://twitter.github.com/bootstrap/
+[7]: https://www.sublimetext.com
+[8]: https://cloud.google.com/sdk/docs/
+[9]: https://git-scm.com/
